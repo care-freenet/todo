@@ -1,2 +1,1 @@
-# todo
-Care-free suggestions and todo list
+Create an issue here https://github.com/care-freenet/todo/issues
